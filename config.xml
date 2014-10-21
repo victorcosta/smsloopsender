@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget id="com.maxmeio.unirnapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.victorcosta.smsloopersend" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 	<name>UNI-RN</name>
 	<description>
-		Aplicativo Oficial da UNI-RN, por meio deste aplicativo o usuário pode obter informações sobre sua situação acadêmica e financeira, informações sobre cursos entre outras informações.
+		Aplicativo para enviar sms em loop
 	</description>
-	<author email="atendimento@maxmeio.com" href="http://maxmeio.com">
+	<author email="victorcostadev@gmail.com" href="http://victorcosta.uphero.com">
 		Victor Costa
 	</author>
 	<preference name="phonegap-version" value="3.3.0" />
