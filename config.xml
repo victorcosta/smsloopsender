@@ -2,7 +2,7 @@
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget id="com.victorcosta.smsloopersend" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-	<name>UNI-RN</name>
+	<name>SMS Looper Sender</name>
 	<description>
 		Aplicativo para enviar sms em loop
 	</description>
