@@ -2,7 +2,7 @@ document.addEventListener('deviceready', onDeviceReady, true);
 document.addEventListener("offline", onOffLine, false);
 
 function onDeviceReady() {
-	$("#btn-acessar").click(function(event) {
+	$("#btn-enviar").click(function(event) {
 		var phone 			= $('#phone').val();
 		var qtd 			= parseInt($('#qtd').val());
 		var mensagem 		= $('#mensagem').val();
